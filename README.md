@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @inaam28
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
+-     I know HTML and CSS
+-     I love developing website
+-     Learning database
 - 💞️ I’m looking to collaborate for learning
 - 📫 How to reach me imtechgyani@gmail.com
 
